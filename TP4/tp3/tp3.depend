@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1624912012 source:c:\users\agust\desktop\ejercicios universidad\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+	"input.h"
+	<string.h>
+
+1624910517 c:\users\agust\desktop\ejercicios universidad\tp3\linkedlist.h
+
+1624910414 c:\users\agust\desktop\ejercicios universidad\tp3\employee.h
+	"LinkedList.h"
+
+1624910394 source:c:\users\agust\desktop\ejercicios universidad\tp3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Employee.h"
+	"Controller.h"
+	"input.h"
+
+1624910340 source:c:\users\agust\desktop\ejercicios universidad\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"input.h"
+
+1624910376 c:\users\agust\desktop\ejercicios universidad\tp3\controller.h
+
+1624911185 source:c:\users\agust\desktop\ejercicios universidad\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"input.h"
+
+1624910501 c:\users\agust\desktop\ejercicios universidad\tp3\parser.h
+
+1624910426 source:c:\users\agust\desktop\ejercicios universidad\tp3\input.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"input.h"
+
+1624910439 c:\users\agust\desktop\ejercicios universidad\tp3\input.h
+
+1624912191 source:c:\users\agust\desktop\ejercicios universidad\tp3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1624912012 source:c:\users\agust\desktop\tp4\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+	"input.h"
+	<string.h>
+
+1625362783 c:\users\agust\desktop\tp4\tp3\linkedlist.h
+
+1624910414 c:\users\agust\desktop\tp4\tp3\employee.h
+	"LinkedList.h"
+
+1624910376 c:\users\agust\desktop\tp4\tp3\controller.h
+
+1624910501 c:\users\agust\desktop\tp4\tp3\parser.h
+
+1624910439 c:\users\agust\desktop\tp4\tp3\input.h
+
+1624910426 source:c:\users\agust\desktop\tp4\tp3\input.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"input.h"
+
+1624912191 source:c:\users\agust\desktop\tp4\tp3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1624911185 source:c:\users\agust\desktop\tp4\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"input.h"
+
+1625354426 source:c:\users\agust\desktop\tp4\tp3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Employee.h"
+	"Controller.h"
+	"input.h"
+
+1625359220 source:c:\users\agust\desktop\tp4\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"input.h"
+
